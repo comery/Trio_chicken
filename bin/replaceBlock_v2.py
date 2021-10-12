@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys
 if len(sys.argv) < 4:
+    print("position must be 1-based!!!")
     sys.exit("python3 {} <*.1coords> <ref.fa> <querry.fa>".format(sys.argv[0]))
 
 
