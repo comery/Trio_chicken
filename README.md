@@ -1,5 +1,9 @@
 # trio_chicken
-scripts for paper "xxx"
+Some scripts for paper "Evolutionary analysis of a complete chicken genome". This analysis was aim to replace the homologous sequences in ont_pri with hifi_pri sequences based on alignment
+
+> Huang, Z., Xu, Z., Bai, H., Huang, Y., Kang, N., Ding, X., ... & Xu, L. (2023). Evolutionary analysis of a complete chicken genome. *Proceedings of the National Academy of Sciences*, *120*(8), e2216641120.
+
+
 
 ```
 ref=data/nanopore.asm.fa
